@@ -14,7 +14,7 @@ Puede que vaya añadiendo más o que a unos temas les dedique más tiempo que a 
 
 Sólo me puedo considerar *"experto"* en la medicina de urgencias pero no me considero maestro. Lo que exponga aquí son reflexiones personales con el objeto de mejorar mi aprendizaje en los distintos campos.
 
-Dejo este texto de la plantilla original para agradecérselo a las personas que hacer estas herramientas.
+Dejo este texto de la plantilla original para agradecérselo a las personas que hacen estas herramientas.
 
 ___
 
