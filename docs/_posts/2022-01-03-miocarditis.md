@@ -10,6 +10,15 @@ categories: urgencias enfermedades
 excerpt_separator: <!--more-->
 ---
 
+[*Take it!/
+*Take another little piece of my heart now, baby!/
+*Oh, oh, break it!/
+*Break another little bit of my heart now, darling, yeah, yeah, yeah./
+*Oh, oh, have a!/
+*Have another little piece of my heart now, baby,/
+*You know you got it if it makes you feel good
+](https://youtu.be/SCngPse1iiI)
+
 Últimamente se habla mucho de ella porque el coronavirus la produce y la vacuna del coronavirus también (muchas mnenos que si tienes la enfermedad, desde luego).
 
 Por algún sitiio he leído una comparación del riesgo de tener miocarditis causada por el COVID-19, comparado con el de tener miocarditis tras la vacuna del COVID-19.
