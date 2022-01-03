@@ -6,10 +6,6 @@ categories: urgencias enfermedades
 ---
 
 
----
-excerpt_separator: <!--more-->
----
-
 [*Take it!/
 *Take another little piece of my heart now, baby!/
 *Oh, oh, break it!/
@@ -19,7 +15,7 @@ excerpt_separator: <!--more-->
 *You know you got it if it makes you feel good
 ](https://youtu.be/SCngPse1iiI)
 
-Últimamente se habla mucho de ella porque el coronavirus la produce y la vacuna del coronavirus también (muchas mnenos que si tienes la enfermedad, desde luego).
+Últimamente se habla mucho de ella porque el coronavirus la produce y la vacuna del coronavirus también (muchas menos que si tienes la enfermedad, desde luego).
 
 Por algún sitiio he leído una comparación del riesgo de tener miocarditis causada por el COVID-19, comparado con el de tener miocarditis tras la vacuna del COVID-19.
 A lo mejor me animo y hago algún post sobre el tema.
@@ -65,7 +61,7 @@ Monitorización de ECG. *¿Hasta cuándo*?
 
 # LO QUE LEO
 
-Medscape Five Fast Quiz: https://reference.medscape.com/viewarticle/964215?uac=28408PJ&faf=1&sso=true&impID=3874485&src=wnl_fastquiz_220102_mscpref
+[Medscape Five Fast Quiz:](https://reference.medscape.com/viewarticle/964215?uac=28408PJ&faf=1&sso=true&impID=3874485&src=wnl_fastquiz_220102_mscpref)
 
 *Asociado a COVID-19
 
@@ -73,7 +69,7 @@ Medscape Five Fast Quiz: https://reference.medscape.com/viewarticle/964215?uac=2
 
 *Causado por fármacos
 
-Medscape Miocarditis Practice Essentials: https://emedicine.medscape.com/article/156330-overview#a1
+[Medscape Miocarditis Practice Essentials:](https://emedicine.medscape.com/article/156330-overview#a1)
 
 ## LO QUE ME LLEVO
 
